@@ -34,13 +34,12 @@ This is an Excel-based data analysis project that explores the demographics and 
 
 ## 📸 Screenshots
 
-> Replace the image links below with your actual screenshots uploaded to GitHub.
 
 ### 📈 Dashboard Preview  
-![Dashboard](Screenshot 2025-08-02 074058.png)
+![Dashboard](Bike-Sales-Analysis/Screenshot 2025-08-02 074058.png)
 
 ### 🧾 Working Sheet  
-![Working Sheet](Screenshot 2025-08-02 074839.png)
+![Working Sheet](Bike-Sales-Analysis/Screenshot 2025-08-02 074839.png)
 
 ---
 
