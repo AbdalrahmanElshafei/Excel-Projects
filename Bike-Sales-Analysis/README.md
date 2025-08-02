@@ -36,10 +36,10 @@ This is an Excel-based data analysis project that explores the demographics and 
 
 
 ### 📈 Dashboard Preview  
-![Dashboard](Bike-Sales-Analysis/Bike-Sales-Dashboard.png)
+![Dashboard](Bike-Sales-Dashboard.png)
 
 ### 🧾 Working Sheet  
-![Working Sheet](Bike-Sales-Analysis/Bike-Sales-Working-Sheet.png)
+![Working Sheet](Bike-Sales-Working-Sheet.png)
 
 ---
 
