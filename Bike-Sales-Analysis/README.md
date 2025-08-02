@@ -96,7 +96,7 @@ This section highlights the most important metrics (KPIs) and business questions
 
 ## 📬 Contact
 
-For feedback or questions, feel free to reach out via [LinkedIn](www.linkedin.com/in/abd-alrahman-elshafei-154686272).
+For feedback or questions, feel free to reach out via [LinkedIn]([www.linkedin.com/in/abd-alrahman-elshafei-154686272](https://www.linkedin.com/in/abd-alrahman-elshafei-154686272/)).
 
 ---
 
