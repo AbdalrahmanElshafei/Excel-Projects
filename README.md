@@ -33,7 +33,7 @@ This is an Excel-based data analysis project that explores the demographics and 
 ---
 
 ### 📈 Dashboard Preview  
-![Dashboard](Bike-Sales-Analysis/Screenshot 2025-08-02 074058.png)
+![Dashboard](Screenshot 2025-08-02 074058.png)
 
 
 ---
